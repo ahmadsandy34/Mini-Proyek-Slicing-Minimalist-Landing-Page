@@ -3,7 +3,7 @@ import Hero from "../components/Hero";
 import Client from "../components/Client";
 import Team from "../components/Team";
 import Success from "../components/Success";
-import Hands from "../assets/works/hero/handsBackground.svg";
+import Hands from "../assets/works/hero/handsBackground2.svg";
 import Gallery1 from "../assets/home/pastworks/gallery1.svg";
 import Founder from "../assets/about/team/founder.svg";
 import Developer from "../assets/about/team/developer.svg";

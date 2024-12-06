@@ -2,7 +2,7 @@ import React from "react";
 import Hero from "../components/Hero";
 import ListWorks from "../components/ListWorks";
 import Client from "../components/Client";
-import Hands from "../assets/works/hero/handsBackground.svg";
+import Hands from "../assets/works/hero/handsBackground2.svg";
 
 const Works = () => {
   return (

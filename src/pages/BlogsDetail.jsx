@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from "react";
 import Hero from "../components/Hero";
-import Hands from "../assets/worksdetail/hero/handsBackground.svg";
+import Hands from "../assets/worksdetail/hero/handsBackground3.svg";
 import Mouse from "../assets/works/hero/mouse.svg";
 import Blog1 from "../assets/home/blog/blog1.svg";
 
