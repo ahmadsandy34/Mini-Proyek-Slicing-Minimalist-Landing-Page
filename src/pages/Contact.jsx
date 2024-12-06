@@ -3,7 +3,7 @@ import DOMPurify from "dompurify";
 import Hero from "../components/Hero";
 import Client from "../components/Client";
 import Success from "../components/Success";
-import Hands from "../assets/worksdetail/hero/handsBackground3.svg";
+import Hands from "../assets/worksdetail/hero/handsBackground.svg";
 import Mouse from "../assets/works/hero/mouse.svg";
 import FormImage from "../assets/contact/form/formImage.svg";
 import Office from "../assets/contact/office/office.svg";
